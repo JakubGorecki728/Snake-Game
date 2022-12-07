@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Snake Game</string>
+    <string name="start_button_text">Nowa gra</string>
+    <string name="continue_button_text">Wznów grę</string>
+    <string name="exit_button_text">Wyjście</string>
+    <string name="snake_speed">Prędkość \nwęża:</string>
+    <string name="board_size">Wielkość \nplanszy:</string>
+    <string name="score_gameboard">WYNIK:</string>
+    <string name="high_score">Najwyższy wynik:</string>
+    <string name="last_score">Ostatni wynik:</string>
+    <string name="end_game_notification_textView">KONIEC GRY</string>
+</resources>
